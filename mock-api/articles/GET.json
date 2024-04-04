@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "titles": "Nguyen Thi Hoang Hieu",
+        "user_id":1
+    },
+    {
+        "id": 2,
+        "titles": "Doan Nguyen Ha Bang",
+        "user_id":2
+    },
+    {
+        "id": 3,
+        "titles": "Doan Nguyen Lin Dan",
+        "user_id":3
+    },
+    {
+        "id": 4,
+        "titles": "Doan Van Tung",
+        "user_id":4
+    }
+]
